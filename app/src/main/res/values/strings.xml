@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragmentos07</string><string-array name="ciclo">
+    <item>ASIR</item>
+    <item>DAM</item>
+    <item>SMR</item>
+    <item>DAW</item>
+</string-array>
+
+    <string-array name="valores">
+        <item>OPC1</item>
+        <item>OPC2</item>
+        <item>OPC3</item>
+        <item>OPC4</item>
+    </string-array>
+</resources>
